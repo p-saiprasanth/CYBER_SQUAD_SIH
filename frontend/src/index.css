@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-amber: #E8913C;
+  --color-brand-teal: #2E6B72;
+  --color-bg-primary: #0A0C0E;
+  --color-bg-secondary: #101317;
+  --color-bg-graph: #07141F;
+  --color-text-primary: #EDE7DC;
+  --color-text-secondary: #9EA5A8;
+  --color-text-muted: #6C7378;
+  --color-border: rgba(237, 231, 220, 0.13);
+  --color-border-light: rgba(237, 231, 220, 0.05);
+}
+
+@layer base {
+  :root {
+    --background: 210 17% 5%;
+    --foreground: 40 33% 90%;
+    --primary: 29 79% 57%;
+    --primary-foreground: 210 17% 5%;
+  }
+
+  body {
+    @apply bg-[#0A0C0E] text-[#EDE7DC] font-sans antialiased overflow-x-hidden selection:bg-[#E8913C] selection:text-[#0A0C0E];
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-extrabold uppercase tracking-tight;
+  }
+}
+
+@layer components {
+  .laser-button {
+    @apply px-4 py-1.5 border border-[rgba(237,231,220,0.3)] rounded-full text-[10.5px] uppercase tracking-[0.15em] hover:bg-[#EDE7DC] hover:text-[#0A0C0E] transition-all cursor-pointer font-bold bg-transparent;
+  }
+  
+  .luminosity-card {
+    @apply relative bg-[#101317] border border-[rgba(237,231,220,0.13)] transition-all duration-300 overflow-hidden;
+  }
+
+  .luminosity-card:hover {
+    @apply border-[#E8913C]/50;
+  }
+
+  .technical-label {
+    @apply text-[10.5px] uppercase tracking-[0.2em] text-[#9EA5A8];
+  }
+}
+
+.bg-refraction-glow {
+  background-image: radial-gradient(#EDE7DC 0.5px, transparent 0.5px);
+  background-size: 24px 24px;
+  opacity: 0.1;
+}
