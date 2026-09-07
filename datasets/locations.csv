@@ -1,0 +1,13 @@
+location_id,location_name,location_type,city,state,latitude,longitude
+L001,Marrow Street Residence,RESIDENCE,Aldenport,Faroth Province,21.114,63.902
+L002,Kestrel Bay Apartments,RESIDENCE,Kestrel Bay,Faroth Province,21.402,63.771
+L003,Northgate Trading Office,OFFICE,Aldenport,Faroth Province,21.13,63.918
+L004,Solace Freight HQ,OFFICE,Millbrook,Faroth Province,20.887,64.055
+L005,Cinderlot Depot,WAREHOUSE,Ashgrove,Faroth Province,21.276,63.64
+L006,Harrow's End Storage,WAREHOUSE,Harrow's End,Faroth Province,21.55,63.5
+L007,Ravensbrook Meeting Hall,MEETING_PLACE,Ravensbrook,Faroth Province,21.005,64.2
+L008,Cindermere Diner,MEETING_PLACE,Aldenport,Faroth Province,21.12,63.91
+L009,The Aldermere Inn,HOTEL,Aldenport,Faroth Province,21.14,63.93
+L010,Portway Financial Plaza,FINANCIAL_LOCATION,Millbrook,Faroth Province,20.9,64.07
+L011,Aldenport Transit Hub,TRANSPORT_HUB,Aldenport,Faroth Province,21.15,63.94
+L012,Millbrook Rail Terminal,TRANSPORT_HUB,Millbrook,Faroth Province,20.91,64.08

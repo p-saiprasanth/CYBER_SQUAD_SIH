@@ -1,0 +1,3296 @@
+{
+  "entities": [
+    {
+      "id": "CASE:CASE001",
+      "type": "CASE",
+      "name": "Operation Nightfall",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "CASE:CASE002",
+      "type": "CASE",
+      "name": "Ledger Shadow",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P001",
+      "type": "PERSON",
+      "name": "Rikard Solmyr",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110001",
+      "type": "PHONE",
+      "name": "5550110001",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:rikard.solmyr@fictmail.example",
+      "type": "EMAIL",
+      "name": "rikard.solmyr@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P002",
+      "type": "PERSON",
+      "name": "Dahlia Renfrew",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110002",
+      "type": "PHONE",
+      "name": "5550110002",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:dahlia.renfrew@fictmail.example",
+      "type": "EMAIL",
+      "name": "dahlia.renfrew@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P003",
+      "type": "PERSON",
+      "name": "Oskar Venn",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110003",
+      "type": "PHONE",
+      "name": "5550110003",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:oskar.venn@fictmail.example",
+      "type": "EMAIL",
+      "name": "oskar.venn@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P004",
+      "type": "PERSON",
+      "name": "Ines Draventa",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110004",
+      "type": "PHONE",
+      "name": "5550110004",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:ines.draventa@fictmail.example",
+      "type": "EMAIL",
+      "name": "ines.draventa@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P005",
+      "type": "PERSON",
+      "name": "Tomas Halloway",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110005",
+      "type": "PHONE",
+      "name": "5550110005",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:tomas.halloway@fictmail.example",
+      "type": "EMAIL",
+      "name": "tomas.halloway@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P006",
+      "type": "PERSON",
+      "name": "Marek Ostrow",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110006",
+      "type": "PHONE",
+      "name": "5550110006",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:marek.ostrow@fictmail.example",
+      "type": "EMAIL",
+      "name": "marek.ostrow@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P007",
+      "type": "PERSON",
+      "name": "Elowen Kestrel",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110007",
+      "type": "PHONE",
+      "name": "5550110007",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:elowen.kestrel@fictmail.example",
+      "type": "EMAIL",
+      "name": "elowen.kestrel@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P008",
+      "type": "PERSON",
+      "name": "Petra Amberlyn",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110008",
+      "type": "PHONE",
+      "name": "5550110008",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:petra.amberlyn@fictmail.example",
+      "type": "EMAIL",
+      "name": "petra.amberlyn@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P009",
+      "type": "PERSON",
+      "name": "Callan Brackwood",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110009",
+      "type": "PHONE",
+      "name": "5550110009",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:callan.brackwood@fictmail.example",
+      "type": "EMAIL",
+      "name": "callan.brackwood@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P010",
+      "type": "PERSON",
+      "name": "Ines Corvane",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110010",
+      "type": "PHONE",
+      "name": "5550110010",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:ines.corvane@fictmail.example",
+      "type": "EMAIL",
+      "name": "ines.corvane@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P011",
+      "type": "PERSON",
+      "name": "Soren Dellamere",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110011",
+      "type": "PHONE",
+      "name": "5550110011",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:soren.dellamere@fictmail.example",
+      "type": "EMAIL",
+      "name": "soren.dellamere@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P012",
+      "type": "PERSON",
+      "name": "Wren Eastfield",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110012",
+      "type": "PHONE",
+      "name": "5550110012",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:wren.eastfield@fictmail.example",
+      "type": "EMAIL",
+      "name": "wren.eastfield@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P013",
+      "type": "PERSON",
+      "name": "Dax Farrow",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110013",
+      "type": "PHONE",
+      "name": "5550110013",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:dax.farrow@fictmail.example",
+      "type": "EMAIL",
+      "name": "dax.farrow@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P014",
+      "type": "PERSON",
+      "name": "Liora Gravenor",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110014",
+      "type": "PHONE",
+      "name": "5550110014",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:liora.gravenor@fictmail.example",
+      "type": "EMAIL",
+      "name": "liora.gravenor@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P015",
+      "type": "PERSON",
+      "name": "Emeric Hargrove",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110015",
+      "type": "PHONE",
+      "name": "5550110015",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:emeric.hargrove@fictmail.example",
+      "type": "EMAIL",
+      "name": "emeric.hargrove@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P016",
+      "type": "PERSON",
+      "name": "Ysolde Ivory",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110016",
+      "type": "PHONE",
+      "name": "5550110016",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:ysolde.ivory@fictmail.example",
+      "type": "EMAIL",
+      "name": "ysolde.ivory@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P017",
+      "type": "PERSON",
+      "name": "Bram Jarrow",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110017",
+      "type": "PHONE",
+      "name": "5550110017",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:bram.jarrow@fictmail.example",
+      "type": "EMAIL",
+      "name": "bram.jarrow@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P018",
+      "type": "PERSON",
+      "name": "Cass Kellemont",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110018",
+      "type": "PHONE",
+      "name": "5550110018",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:cass.kellemont@fictmail.example",
+      "type": "EMAIL",
+      "name": "cass.kellemont@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P019",
+      "type": "PERSON",
+      "name": "Niven Lindqvist",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110019",
+      "type": "PHONE",
+      "name": "5550110019",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:niven.lindqvist@fictmail.example",
+      "type": "EMAIL",
+      "name": "niven.lindqvist@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P020",
+      "type": "PERSON",
+      "name": "Aurelia Marrow",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110020",
+      "type": "PHONE",
+      "name": "5550110020",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:aurelia.marrow@fictmail.example",
+      "type": "EMAIL",
+      "name": "aurelia.marrow@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P021",
+      "type": "PERSON",
+      "name": "Joric Norrick",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110021",
+      "type": "PHONE",
+      "name": "5550110021",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:joric.norrick@fictmail.example",
+      "type": "EMAIL",
+      "name": "joric.norrick@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P022",
+      "type": "PERSON",
+      "name": "Freya Ostwind",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110022",
+      "type": "PHONE",
+      "name": "5550110022",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:freya.ostwind@fictmail.example",
+      "type": "EMAIL",
+      "name": "freya.ostwind@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P023",
+      "type": "PERSON",
+      "name": "Renn Pryce",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110023",
+      "type": "PHONE",
+      "name": "5550110023",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:renn.pryce@fictmail.example",
+      "type": "EMAIL",
+      "name": "renn.pryce@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PERSON:P024",
+      "type": "PERSON",
+      "name": "Sable Quillon",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "PHONE:5550110024",
+      "type": "PHONE",
+      "name": "5550110024",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EMAIL:sable.quillon@fictmail.example",
+      "type": "EMAIL",
+      "name": "sable.quillon@fictmail.example",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O001",
+      "type": "ORGANIZATION",
+      "name": "Solace Freight Cooperative",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O002",
+      "type": "ORGANIZATION",
+      "name": "Northgate Import Traders",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O003",
+      "type": "ORGANIZATION",
+      "name": "Millbrook Civic Bank",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O004",
+      "type": "ORGANIZATION",
+      "name": "Solace Freight Cooperative (Millbrook Branch)",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O005",
+      "type": "ORGANIZATION",
+      "name": "Harrow's End Storage Ltd.",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O006",
+      "type": "ORGANIZATION",
+      "name": "Ravensbrook Consulting Group",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ORGANIZATION:O007",
+      "type": "ORGANIZATION",
+      "name": "Portway Accounting Partners",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L001",
+      "type": "LOCATION",
+      "name": "Marrow Street Residence",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L002",
+      "type": "LOCATION",
+      "name": "Kestrel Bay Apartments",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L003",
+      "type": "LOCATION",
+      "name": "Northgate Trading Office",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L004",
+      "type": "LOCATION",
+      "name": "Solace Freight HQ",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L005",
+      "type": "LOCATION",
+      "name": "Cinderlot Depot",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L006",
+      "type": "LOCATION",
+      "name": "Harrow's End Storage",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L007",
+      "type": "LOCATION",
+      "name": "Ravensbrook Meeting Hall",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L008",
+      "type": "LOCATION",
+      "name": "Cindermere Diner",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L009",
+      "type": "LOCATION",
+      "name": "The Aldermere Inn",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L010",
+      "type": "LOCATION",
+      "name": "Portway Financial Plaza",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L011",
+      "type": "LOCATION",
+      "name": "Aldenport Transit Hub",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "LOCATION:L012",
+      "type": "LOCATION",
+      "name": "Millbrook Rail Terminal",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "EVIDENCE:E001",
+      "type": "EVIDENCE",
+      "name": "E001",
+      "confidence": 1.0,
+      "evidence_id": "E001"
+    },
+    {
+      "id": "EVIDENCE:E002",
+      "type": "EVIDENCE",
+      "name": "E002",
+      "confidence": 1.0,
+      "evidence_id": "E002"
+    },
+    {
+      "id": "EVIDENCE:E003",
+      "type": "EVIDENCE",
+      "name": "E003",
+      "confidence": 1.0,
+      "evidence_id": "E003"
+    },
+    {
+      "id": "EVIDENCE:E004",
+      "type": "EVIDENCE",
+      "name": "E004",
+      "confidence": 1.0,
+      "evidence_id": "E004"
+    },
+    {
+      "id": "EVIDENCE:E005",
+      "type": "EVIDENCE",
+      "name": "E005",
+      "confidence": 1.0,
+      "evidence_id": "E005"
+    },
+    {
+      "id": "EVIDENCE:E006",
+      "type": "EVIDENCE",
+      "name": "E006",
+      "confidence": 1.0,
+      "evidence_id": "E006"
+    },
+    {
+      "id": "EVIDENCE:E007",
+      "type": "EVIDENCE",
+      "name": "E007",
+      "confidence": 1.0,
+      "evidence_id": "E007"
+    },
+    {
+      "id": "EVIDENCE:E008",
+      "type": "EVIDENCE",
+      "name": "E008",
+      "confidence": 1.0,
+      "evidence_id": "E008"
+    },
+    {
+      "id": "EVIDENCE:E009",
+      "type": "EVIDENCE",
+      "name": "E009",
+      "confidence": 1.0,
+      "evidence_id": "E009"
+    },
+    {
+      "id": "EVIDENCE:E010",
+      "type": "EVIDENCE",
+      "name": "E010",
+      "confidence": 1.0,
+      "evidence_id": "E010"
+    },
+    {
+      "id": "EVIDENCE:E011",
+      "type": "EVIDENCE",
+      "name": "E011",
+      "confidence": 1.0,
+      "evidence_id": "E011"
+    },
+    {
+      "id": "EVIDENCE:E012",
+      "type": "EVIDENCE",
+      "name": "E012",
+      "confidence": 1.0,
+      "evidence_id": "E012"
+    },
+    {
+      "id": "EVIDENCE:E013",
+      "type": "EVIDENCE",
+      "name": "E013",
+      "confidence": 1.0,
+      "evidence_id": "E013"
+    },
+    {
+      "id": "EVIDENCE:E014",
+      "type": "EVIDENCE",
+      "name": "E014",
+      "confidence": 1.0,
+      "evidence_id": "E014"
+    },
+    {
+      "id": "EVIDENCE:E015",
+      "type": "EVIDENCE",
+      "name": "E015",
+      "confidence": 1.0,
+      "evidence_id": "E015"
+    },
+    {
+      "id": "EVIDENCE:E016",
+      "type": "EVIDENCE",
+      "name": "E016",
+      "confidence": 1.0,
+      "evidence_id": "E016"
+    },
+    {
+      "id": "EVIDENCE:E017",
+      "type": "EVIDENCE",
+      "name": "E017",
+      "confidence": 1.0,
+      "evidence_id": "E017"
+    },
+    {
+      "id": "EVIDENCE:E018",
+      "type": "EVIDENCE",
+      "name": "E018",
+      "confidence": 1.0,
+      "evidence_id": "E018"
+    },
+    {
+      "id": "EVIDENCE:E019",
+      "type": "EVIDENCE",
+      "name": "E019",
+      "confidence": 1.0,
+      "evidence_id": "E019"
+    },
+    {
+      "id": "EVIDENCE:E020",
+      "type": "EVIDENCE",
+      "name": "E020",
+      "confidence": 1.0,
+      "evidence_id": "E020"
+    },
+    {
+      "id": "EVIDENCE:E021",
+      "type": "EVIDENCE",
+      "name": "E021",
+      "confidence": 1.0,
+      "evidence_id": "E021"
+    },
+    {
+      "id": "EVIDENCE:E022",
+      "type": "EVIDENCE",
+      "name": "E022",
+      "confidence": 1.0,
+      "evidence_id": "E022"
+    },
+    {
+      "id": "EVIDENCE:E023",
+      "type": "EVIDENCE",
+      "name": "E023",
+      "confidence": 1.0,
+      "evidence_id": "E023"
+    },
+    {
+      "id": "EVIDENCE:E024",
+      "type": "EVIDENCE",
+      "name": "E024",
+      "confidence": 1.0,
+      "evidence_id": "E024"
+    },
+    {
+      "id": "EVIDENCE:E025",
+      "type": "EVIDENCE",
+      "name": "E025",
+      "confidence": 1.0,
+      "evidence_id": "E025"
+    },
+    {
+      "id": "EVIDENCE:E026",
+      "type": "EVIDENCE",
+      "name": "E026",
+      "confidence": 1.0,
+      "evidence_id": "E026"
+    },
+    {
+      "id": "EVIDENCE:E027",
+      "type": "EVIDENCE",
+      "name": "E027",
+      "confidence": 1.0,
+      "evidence_id": "E027"
+    },
+    {
+      "id": "EVIDENCE:E028",
+      "type": "EVIDENCE",
+      "name": "E028",
+      "confidence": 1.0,
+      "evidence_id": "E028"
+    },
+    {
+      "id": "EVIDENCE:E029",
+      "type": "EVIDENCE",
+      "name": "E029",
+      "confidence": 1.0,
+      "evidence_id": "E029"
+    },
+    {
+      "id": "EVIDENCE:E030",
+      "type": "EVIDENCE",
+      "name": "E030",
+      "confidence": 1.0,
+      "evidence_id": "E030"
+    },
+    {
+      "id": "EVIDENCE:E031",
+      "type": "EVIDENCE",
+      "name": "E031",
+      "confidence": 1.0,
+      "evidence_id": "E031"
+    },
+    {
+      "id": "EVIDENCE:E032",
+      "type": "EVIDENCE",
+      "name": "E032",
+      "confidence": 1.0,
+      "evidence_id": "E032"
+    },
+    {
+      "id": "EVIDENCE:E033",
+      "type": "EVIDENCE",
+      "name": "E033",
+      "confidence": 1.0,
+      "evidence_id": "E033"
+    },
+    {
+      "id": "EVIDENCE:E034",
+      "type": "EVIDENCE",
+      "name": "E034",
+      "confidence": 1.0,
+      "evidence_id": "E034"
+    },
+    {
+      "id": "EVIDENCE:E035",
+      "type": "EVIDENCE",
+      "name": "E035",
+      "confidence": 1.0,
+      "evidence_id": "E035"
+    },
+    {
+      "id": "EVIDENCE:E036",
+      "type": "EVIDENCE",
+      "name": "E036",
+      "confidence": 1.0,
+      "evidence_id": "E036"
+    },
+    {
+      "id": "EVIDENCE:E037",
+      "type": "EVIDENCE",
+      "name": "E037",
+      "confidence": 1.0,
+      "evidence_id": "E037"
+    },
+    {
+      "id": "EVIDENCE:E038",
+      "type": "EVIDENCE",
+      "name": "E038",
+      "confidence": 1.0,
+      "evidence_id": "E038"
+    },
+    {
+      "id": "EVIDENCE:E039",
+      "type": "EVIDENCE",
+      "name": "E039",
+      "confidence": 1.0,
+      "evidence_id": "E039"
+    },
+    {
+      "id": "EVIDENCE:E040",
+      "type": "EVIDENCE",
+      "name": "E040",
+      "confidence": 1.0,
+      "evidence_id": "E040"
+    },
+    {
+      "id": "EVIDENCE:E041",
+      "type": "EVIDENCE",
+      "name": "E041",
+      "confidence": 1.0,
+      "evidence_id": "E041"
+    },
+    {
+      "id": "EVIDENCE:E042",
+      "type": "EVIDENCE",
+      "name": "E042",
+      "confidence": 1.0,
+      "evidence_id": "E042"
+    },
+    {
+      "id": "EVIDENCE:E043",
+      "type": "EVIDENCE",
+      "name": "E043",
+      "confidence": 1.0,
+      "evidence_id": "E043"
+    },
+    {
+      "id": "EVIDENCE:E044",
+      "type": "EVIDENCE",
+      "name": "E044",
+      "confidence": 1.0,
+      "evidence_id": "E044"
+    },
+    {
+      "id": "EVIDENCE:E045",
+      "type": "EVIDENCE",
+      "name": "E045",
+      "confidence": 1.0,
+      "evidence_id": "E045"
+    },
+    {
+      "id": "EVIDENCE:E046",
+      "type": "EVIDENCE",
+      "name": "E046",
+      "confidence": 1.0,
+      "evidence_id": "E046"
+    },
+    {
+      "id": "EVIDENCE:E047",
+      "type": "EVIDENCE",
+      "name": "E047",
+      "confidence": 1.0,
+      "evidence_id": "E047"
+    },
+    {
+      "id": "EVIDENCE:E048",
+      "type": "EVIDENCE",
+      "name": "E048",
+      "confidence": 1.0,
+      "evidence_id": "E048"
+    },
+    {
+      "id": "EVIDENCE:E049",
+      "type": "EVIDENCE",
+      "name": "E049",
+      "confidence": 1.0,
+      "evidence_id": "E049"
+    },
+    {
+      "id": "EVIDENCE:E050",
+      "type": "EVIDENCE",
+      "name": "E050",
+      "confidence": 1.0,
+      "evidence_id": "E050"
+    },
+    {
+      "id": "EVIDENCE:E051",
+      "type": "EVIDENCE",
+      "name": "E051",
+      "confidence": 1.0,
+      "evidence_id": "E051"
+    },
+    {
+      "id": "EVIDENCE:E052",
+      "type": "EVIDENCE",
+      "name": "E052",
+      "confidence": 1.0,
+      "evidence_id": "E052"
+    },
+    {
+      "id": "EVIDENCE:E053",
+      "type": "EVIDENCE",
+      "name": "E053",
+      "confidence": 1.0,
+      "evidence_id": "E053"
+    },
+    {
+      "id": "EVIDENCE:E054",
+      "type": "EVIDENCE",
+      "name": "E054",
+      "confidence": 1.0,
+      "evidence_id": "E054"
+    },
+    {
+      "id": "EVIDENCE:E055",
+      "type": "EVIDENCE",
+      "name": "E055",
+      "confidence": 1.0,
+      "evidence_id": "E055"
+    },
+    {
+      "id": "EVIDENCE:E056",
+      "type": "EVIDENCE",
+      "name": "E056",
+      "confidence": 1.0,
+      "evidence_id": "E056"
+    },
+    {
+      "id": "EVIDENCE:E057",
+      "type": "EVIDENCE",
+      "name": "E057",
+      "confidence": 1.0,
+      "evidence_id": "E057"
+    },
+    {
+      "id": "EVIDENCE:E058",
+      "type": "EVIDENCE",
+      "name": "E058",
+      "confidence": 1.0,
+      "evidence_id": "E058"
+    },
+    {
+      "id": "EVIDENCE:E059",
+      "type": "EVIDENCE",
+      "name": "E059",
+      "confidence": 1.0,
+      "evidence_id": "E059"
+    },
+    {
+      "id": "EVIDENCE:E060",
+      "type": "EVIDENCE",
+      "name": "E060",
+      "confidence": 1.0,
+      "evidence_id": "E060"
+    },
+    {
+      "id": "EVIDENCE:E061",
+      "type": "EVIDENCE",
+      "name": "E061",
+      "confidence": 1.0,
+      "evidence_id": "E061"
+    },
+    {
+      "id": "EVIDENCE:E062",
+      "type": "EVIDENCE",
+      "name": "E062",
+      "confidence": 1.0,
+      "evidence_id": "E062"
+    },
+    {
+      "id": "EVIDENCE:E063",
+      "type": "EVIDENCE",
+      "name": "E063",
+      "confidence": 1.0,
+      "evidence_id": "E063"
+    },
+    {
+      "id": "EVIDENCE:E064",
+      "type": "EVIDENCE",
+      "name": "E064",
+      "confidence": 1.0,
+      "evidence_id": "E064"
+    },
+    {
+      "id": "EVIDENCE:E065",
+      "type": "EVIDENCE",
+      "name": "E065",
+      "confidence": 1.0,
+      "evidence_id": "E065"
+    },
+    {
+      "id": "EVIDENCE:E066",
+      "type": "EVIDENCE",
+      "name": "E066",
+      "confidence": 1.0,
+      "evidence_id": "E066"
+    },
+    {
+      "id": "EVIDENCE:E067",
+      "type": "EVIDENCE",
+      "name": "E067",
+      "confidence": 1.0,
+      "evidence_id": "E067"
+    },
+    {
+      "id": "EVIDENCE:E068",
+      "type": "EVIDENCE",
+      "name": "E068",
+      "confidence": 1.0,
+      "evidence_id": "E068"
+    },
+    {
+      "id": "EVIDENCE:E069",
+      "type": "EVIDENCE",
+      "name": "E069",
+      "confidence": 1.0,
+      "evidence_id": "E069"
+    },
+    {
+      "id": "EVIDENCE:E070",
+      "type": "EVIDENCE",
+      "name": "E070",
+      "confidence": 1.0,
+      "evidence_id": "E070"
+    },
+    {
+      "id": "EVIDENCE:E071",
+      "type": "EVIDENCE",
+      "name": "E071",
+      "confidence": 1.0,
+      "evidence_id": "E071"
+    },
+    {
+      "id": "EVIDENCE:E072",
+      "type": "EVIDENCE",
+      "name": "E072",
+      "confidence": 1.0,
+      "evidence_id": "E072"
+    },
+    {
+      "id": "EVIDENCE:E073",
+      "type": "EVIDENCE",
+      "name": "E073",
+      "confidence": 1.0,
+      "evidence_id": "E073"
+    },
+    {
+      "id": "EVIDENCE:E074",
+      "type": "EVIDENCE",
+      "name": "E074",
+      "confidence": 1.0,
+      "evidence_id": "E074"
+    },
+    {
+      "id": "ACCOUNT:ACC-P003-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P003-01",
+      "confidence": 1.0,
+      "evidence_id": "E024"
+    },
+    {
+      "id": "ACCOUNT:ACC-P007-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P007-01",
+      "confidence": 1.0,
+      "evidence_id": "E025"
+    },
+    {
+      "id": "ACCOUNT:ACC-P022-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P022-01",
+      "confidence": 1.0,
+      "evidence_id": "E026"
+    },
+    {
+      "id": "ACCOUNT:ACC-P016-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P016-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P004-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P004-01",
+      "confidence": 1.0,
+      "evidence_id": "E028"
+    },
+    {
+      "id": "ACCOUNT:ACC-P008-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P008-01",
+      "confidence": 1.0,
+      "evidence_id": "E029"
+    },
+    {
+      "id": "ACCOUNT:ACC-P011-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P011-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P019-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P019-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P021-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P021-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P001-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P001-01",
+      "confidence": 1.0,
+      "evidence_id": "E033"
+    },
+    {
+      "id": "ACCOUNT:ACC-P013-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P013-01",
+      "confidence": 1.0,
+      "evidence_id": "E034"
+    },
+    {
+      "id": "ACCOUNT:ACC-P009-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P009-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P015-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P015-01",
+      "confidence": 1.0,
+      "evidence_id": "E035"
+    },
+    {
+      "id": "ACCOUNT:ACC-P023-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P023-01",
+      "confidence": 1.0,
+      "evidence_id": "E038"
+    },
+    {
+      "id": "ACCOUNT:ACC-P002-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P002-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P005-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P005-01",
+      "confidence": 1.0,
+      "evidence_id": "E041"
+    },
+    {
+      "id": "ACCOUNT:ACC-P017-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P017-01",
+      "confidence": 1.0,
+      "evidence_id": "E042"
+    },
+    {
+      "id": "ACCOUNT:ACC-P012-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P012-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P020-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P020-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "ACCOUNT:ACC-P024-01",
+      "type": "ACCOUNT",
+      "name": "ACC-P024-01",
+      "confidence": 1.0,
+      "evidence_id": null
+    },
+    {
+      "id": "VEHICLE:black_sedan",
+      "type": "VEHICLE",
+      "name": "black sedan",
+      "confidence": 0.6,
+      "evidence_id": "E051"
+    },
+    {
+      "id": "VEHICLE:unmarked_cargo_truck",
+      "type": "VEHICLE",
+      "name": "unmarked cargo truck",
+      "confidence": 0.6,
+      "evidence_id": "E052"
+    },
+    {
+      "id": "VEHICLE:silver_motorcycle",
+      "type": "VEHICLE",
+      "name": "silver motorcycle",
+      "confidence": 0.6,
+      "evidence_id": "E073"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "PERSON:P001",
+      "target": "PHONE:5550110001",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "EMAIL:rikard.solmyr@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "ORGANIZATION:O002",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "LOCATION:L001",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "PHONE:5550110002",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "EMAIL:dahlia.renfrew@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "ORGANIZATION:O001",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "LOCATION:L004",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "PHONE:5550110003",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "EMAIL:oskar.venn@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "ORGANIZATION:O002",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "LOCATION:L012",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PHONE:5550110004",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "EMAIL:ines.draventa@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "LOCATION:L009",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PHONE:5550110005",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "EMAIL:tomas.halloway@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "ORGANIZATION:O002",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "LOCATION:L005",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "PHONE:5550110006",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "EMAIL:marek.ostrow@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "ORGANIZATION:O005",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "LOCATION:L008",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PHONE:5550110007",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "EMAIL:elowen.kestrel@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "ORGANIZATION:O005",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "LOCATION:L012",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "PHONE:5550110008",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "EMAIL:petra.amberlyn@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "LOCATION:L008",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PHONE:5550110009",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "EMAIL:callan.brackwood@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "ORGANIZATION:O001",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "LOCATION:L007",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "PHONE:5550110010",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "EMAIL:ines.corvane@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "ORGANIZATION:O005",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "LOCATION:L002",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P011",
+      "target": "PHONE:5550110011",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P011",
+      "target": "EMAIL:soren.dellamere@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P011",
+      "target": "LOCATION:L007",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PHONE:5550110012",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "EMAIL:wren.eastfield@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "LOCATION:L007",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "PHONE:5550110013",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "EMAIL:dax.farrow@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "LOCATION:L010",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PHONE:5550110014",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "EMAIL:liora.gravenor@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "LOCATION:L001",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PHONE:5550110015",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "EMAIL:emeric.hargrove@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "LOCATION:L012",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PHONE:5550110016",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "EMAIL:ysolde.ivory@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "LOCATION:L003",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PHONE:5550110017",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "EMAIL:bram.jarrow@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "LOCATION:L002",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PHONE:5550110018",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "EMAIL:cass.kellemont@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "LOCATION:L012",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P019",
+      "target": "PHONE:5550110019",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P019",
+      "target": "EMAIL:niven.lindqvist@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P019",
+      "target": "LOCATION:L009",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "PHONE:5550110020",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "EMAIL:aurelia.marrow@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "ORGANIZATION:O004",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "LOCATION:L004",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PHONE:5550110021",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "EMAIL:joric.norrick@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "ORGANIZATION:O001",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "LOCATION:L007",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PHONE:5550110022",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "EMAIL:freya.ostwind@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "LOCATION:L005",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PHONE:5550110023",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "EMAIL:renn.pryce@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "LOCATION:L001",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "PHONE:5550110024",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "EMAIL:sable.quillon@fictmail.example",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "ORGANIZATION:O002",
+      "type": "WORKS_FOR",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "LOCATION:L009",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O001",
+      "target": "LOCATION:L004",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O002",
+      "target": "LOCATION:L003",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O003",
+      "target": "LOCATION:L010",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O004",
+      "target": "LOCATION:L004",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O005",
+      "target": "LOCATION:L006",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O006",
+      "target": "LOCATION:L007",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "ORGANIZATION:O007",
+      "target": "LOCATION:L010",
+      "type": "LOCATED_AT",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": null
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "PERSON:P006",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E001",
+      "timestamp": "2026-01-11 09:12:00"
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "PERSON:P010",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E002",
+      "timestamp": "2026-01-13 14:05:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "PERSON:P011",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E003",
+      "timestamp": "2026-01-14 10:40:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "PERSON:P006",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E004",
+      "timestamp": "2026-01-15 16:20:00"
+    },
+    {
+      "source": "PERSON:P006",
+      "target": "PERSON:P015",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E005",
+      "timestamp": "2026-01-16 11:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P001",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E006",
+      "timestamp": "2026-01-12 08:30:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P015",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E007",
+      "timestamp": "2026-01-12 09:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P003",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E008",
+      "timestamp": "2026-01-17 13:45:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PERSON:P009",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-06 21:04:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P001",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E009",
+      "timestamp": "2026-01-22 19:09:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P008",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-16 08:39:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PERSON:P012",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E010",
+      "timestamp": "2026-02-27 14:42:00"
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "PERSON:P005",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": "E011",
+      "timestamp": "2026-02-21 21:44:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PERSON:P017",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E012",
+      "timestamp": "2026-02-16 10:38:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P019",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-21 11:59:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P013",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-03 10:33:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P021",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-03 08:03:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P011",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": "E013",
+      "timestamp": "2026-01-11 06:32:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P019",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-30 09:31:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P020",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-19 22:13:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "PERSON:P002",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-24 08:35:00"
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PERSON:P002",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-21 07:41:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PERSON:P022",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E014",
+      "timestamp": "2026-02-20 12:30:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PERSON:P005",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-12 12:50:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P018",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-21 18:17:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P006",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-03 15:11:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P006",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-28 19:18:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PERSON:P009",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-07 09:33:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P021",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-24 06:05:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P006",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-01 11:01:00"
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "PERSON:P023",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-15 12:07:00"
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "PERSON:P019",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-15 12:36:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PERSON:P004",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E015",
+      "timestamp": "2026-01-18 09:50:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P024",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-22 07:48:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PERSON:P019",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E016",
+      "timestamp": "2026-01-16 22:20:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PERSON:P003",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-30 11:16:00"
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "PERSON:P002",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": "E017",
+      "timestamp": "2026-02-28 14:26:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P018",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-29 09:06:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P020",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-05 17:20:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "PERSON:P011",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": "E018",
+      "timestamp": "2026-02-18 07:59:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PERSON:P022",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-08 19:43:00"
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "PERSON:P012",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-22 14:24:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PERSON:P011",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-06 06:18:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P011",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-28 09:19:00"
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PERSON:P002",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-13 16:12:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "PERSON:P005",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-20 09:07:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P019",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-20 15:01:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P022",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-03 18:15:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PERSON:P018",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-21 06:42:00"
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "PERSON:P009",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-26 10:14:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PERSON:P019",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-26 16:08:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PERSON:P009",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-14 07:41:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P001",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-27 16:03:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P017",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-09 07:14:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P008",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-06 18:45:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P015",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-31 12:23:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P019",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E019",
+      "timestamp": "2026-03-02 21:57:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P001",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-19 19:09:00"
+    },
+    {
+      "source": "PERSON:P014",
+      "target": "PERSON:P002",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": "E020",
+      "timestamp": "2026-03-04 22:44:00"
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "PERSON:P009",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-29 17:34:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P023",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": "E021",
+      "timestamp": "2026-01-16 06:34:00"
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PERSON:P017",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-12 18:24:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P024",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E022",
+      "timestamp": "2026-02-11 09:05:00"
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "PERSON:P019",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-26 15:02:00"
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PERSON:P010",
+      "type": "CONTACTED",
+      "confidence": 1.0,
+      "evidence_id": "E023",
+      "timestamp": "2026-01-20 15:18:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PERSON:P001",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-03 12:47:00"
+    },
+    {
+      "source": "PERSON:P018",
+      "target": "PERSON:P006",
+      "type": "COMMUNICATED_WITH",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-06 17:51:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P006",
+      "type": "CALLED",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-21 16:34:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "PERSON:P007",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E024",
+      "timestamp": "2026-01-18 00:00:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "ACCOUNT:ACC-P003-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E024",
+      "timestamp": "2026-01-18 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P015",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E025",
+      "timestamp": "2026-01-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "ACCOUNT:ACC-P007-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E025",
+      "timestamp": "2026-01-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P023",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E026",
+      "timestamp": "2026-02-11 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "ACCOUNT:ACC-P022-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E026",
+      "timestamp": "2026-02-11 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P018",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E027",
+      "timestamp": "2026-01-29 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "ACCOUNT:ACC-P007-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E027",
+      "timestamp": "2026-01-29 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P004",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-30 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "ACCOUNT:ACC-P016-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-30 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PERSON:P012",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E028",
+      "timestamp": "2026-02-20 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "ACCOUNT:ACC-P004-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E028",
+      "timestamp": "2026-02-20 00:00:00"
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "PERSON:P012",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E029",
+      "timestamp": "2026-02-12 00:00:00"
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "ACCOUNT:ACC-P008-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E029",
+      "timestamp": "2026-02-12 00:00:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "PERSON:P016",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-14 00:00:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "ACCOUNT:ACC-P003-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-14 00:00:00"
+    },
+    {
+      "source": "PERSON:P011",
+      "target": "PERSON:P014",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-20 00:00:00"
+    },
+    {
+      "source": "PERSON:P011",
+      "target": "ACCOUNT:ACC-P011-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-20 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P013",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E030",
+      "timestamp": "2026-02-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "ACCOUNT:ACC-P016-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E030",
+      "timestamp": "2026-02-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "PERSON:P023",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-08 00:00:00"
+    },
+    {
+      "source": "PERSON:P008",
+      "target": "ACCOUNT:ACC-P008-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-08 00:00:00"
+    },
+    {
+      "source": "PERSON:P019",
+      "target": "PERSON:P013",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-02 00:00:00"
+    },
+    {
+      "source": "PERSON:P019",
+      "target": "ACCOUNT:ACC-P019-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-02 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P024",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E031",
+      "timestamp": "2026-02-15 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "ACCOUNT:ACC-P022-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E031",
+      "timestamp": "2026-02-15 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PERSON:P011",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E032",
+      "timestamp": "2026-03-04 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "ACCOUNT:ACC-P004-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E032",
+      "timestamp": "2026-03-04 00:00:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "PERSON:P009",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P021",
+      "target": "ACCOUNT:ACC-P021-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PERSON:P009",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-14 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "ACCOUNT:ACC-P004-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-14 00:00:00"
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "PERSON:P018",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E033",
+      "timestamp": "2026-02-04 00:00:00"
+    },
+    {
+      "source": "PERSON:P001",
+      "target": "ACCOUNT:ACC-P001-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E033",
+      "timestamp": "2026-02-04 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P022",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-22 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "ACCOUNT:ACC-P016-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-22 00:00:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "PERSON:P024",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E034",
+      "timestamp": "2026-01-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "ACCOUNT:ACC-P013-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E034",
+      "timestamp": "2026-01-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PERSON:P005",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-23 00:00:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "ACCOUNT:ACC-P009-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-23 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P011",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-02 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "ACCOUNT:ACC-P016-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-02 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "PERSON:P022",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-19 00:00:00"
+    },
+    {
+      "source": "PERSON:P004",
+      "target": "ACCOUNT:ACC-P004-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-19 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P017",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E035",
+      "timestamp": "2026-03-01 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "ACCOUNT:ACC-P015-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E035",
+      "timestamp": "2026-03-01 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "PERSON:P018",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E036",
+      "timestamp": "2026-02-23 00:00:00"
+    },
+    {
+      "source": "PERSON:P007",
+      "target": "ACCOUNT:ACC-P007-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E036",
+      "timestamp": "2026-02-23 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P007",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E037",
+      "timestamp": "2026-01-24 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "ACCOUNT:ACC-P015-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E037",
+      "timestamp": "2026-01-24 00:00:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "PERSON:P017",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E038",
+      "timestamp": "2026-02-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P023",
+      "target": "ACCOUNT:ACC-P023-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E038",
+      "timestamp": "2026-02-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "PERSON:P006",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "ACCOUNT:ACC-P002-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "PERSON:P011",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E039",
+      "timestamp": "2026-02-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "ACCOUNT:ACC-P022-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E039",
+      "timestamp": "2026-02-21 00:00:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "PERSON:P016",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E040",
+      "timestamp": "2026-02-09 00:00:00"
+    },
+    {
+      "source": "PERSON:P009",
+      "target": "ACCOUNT:ACC-P009-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E040",
+      "timestamp": "2026-02-09 00:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P001",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E041",
+      "timestamp": "2026-02-10 00:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "ACCOUNT:ACC-P005-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E041",
+      "timestamp": "2026-02-10 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P007",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-27 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "ACCOUNT:ACC-P015-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-27 00:00:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "PERSON:P010",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-25 00:00:00"
+    },
+    {
+      "source": "PERSON:P013",
+      "target": "ACCOUNT:ACC-P013-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-25 00:00:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "PERSON:P024",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P003",
+      "target": "ACCOUNT:ACC-P003-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PERSON:P020",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E042",
+      "timestamp": "2026-03-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "ACCOUNT:ACC-P017-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E042",
+      "timestamp": "2026-03-05 00:00:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "PERSON:P006",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-31 00:00:00"
+    },
+    {
+      "source": "PERSON:P012",
+      "target": "ACCOUNT:ACC-P012-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-31 00:00:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "PERSON:P013",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P017",
+      "target": "ACCOUNT:ACC-P017-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "PERSON:P008",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-11 00:00:00"
+    },
+    {
+      "source": "PERSON:P015",
+      "target": "ACCOUNT:ACC-P015-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-11 00:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "PERSON:P017",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-12 00:00:00"
+    },
+    {
+      "source": "PERSON:P005",
+      "target": "ACCOUNT:ACC-P005-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-12 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "PERSON:P005",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-24 00:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "ACCOUNT:ACC-P016-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-24 00:00:00"
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "PERSON:P024",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P020",
+      "target": "ACCOUNT:ACC-P020-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-02-13 00:00:00"
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "PERSON:P005",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-19 00:00:00"
+    },
+    {
+      "source": "PERSON:P024",
+      "target": "ACCOUNT:ACC-P024-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": null,
+      "timestamp": "2026-01-19 00:00:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "PERSON:P009",
+      "type": "TRANSFERRED_MONEY",
+      "confidence": 1.0,
+      "evidence_id": "E043",
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P002",
+      "target": "ACCOUNT:ACC-P002-01",
+      "type": "OWNS",
+      "confidence": 1.0,
+      "evidence_id": "E043",
+      "timestamp": "2026-03-06 00:00:00"
+    },
+    {
+      "source": "PERSON:P022",
+      "target": "VEHICLE:black_sedan",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 0.6,
+      "evidence_id": "E051",
+      "timestamp": "2026-01-30 16:00:00"
+    },
+    {
+      "source": "PERSON:P010",
+      "target": "VEHICLE:unmarked_cargo_truck",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 0.6,
+      "evidence_id": "E052",
+      "timestamp": "2026-01-14 21:00:00"
+    },
+    {
+      "source": "PERSON:P016",
+      "target": "VEHICLE:silver_motorcycle",
+      "type": "ASSOCIATED_WITH",
+      "confidence": 0.6,
+      "evidence_id": "E073",
+      "timestamp": "2026-01-19 16:00:00"
+    }
+  ]
+}

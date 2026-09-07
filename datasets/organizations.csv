@@ -1,0 +1,8 @@
+organization_id,organization_name,organization_type,location_id,case_id,status
+O001,Solace Freight Cooperative,LOGISTICS,L004,CASE001,ACTIVE
+O002,Northgate Import Traders,TRADING,L003,CASE001,UNDER_REVIEW
+O003,Millbrook Civic Bank,FINANCIAL,L010,CASE001,ACTIVE
+O004,Solace Freight Cooperative (Millbrook Branch),LOGISTICS,L004,CASE001,ACTIVE
+O005,Harrow's End Storage Ltd.,WAREHOUSING,L006,CASE001,UNDER_REVIEW
+O006,Ravensbrook Consulting Group,CONSULTING,L007,CASE002,ACTIVE
+O007,Portway Accounting Partners,FINANCIAL,L010,CASE002,ACTIVE

@@ -1,0 +1,3 @@
+case_id,case_name,description,case_type,status,start_date,end_date,lead_investigator
+CASE001,Operation Nightfall,Suspected smuggling and shell-finance network operating through front trading companies and a rented warehouse.,ORGANIZED_CRIME,ACTIVE,2026-01-05,,Insp. Naomi Castellan
+CASE002,Ledger Shadow,"Minor suspected invoice-fraud case, largely unconnected to Operation Nightfall.",FINANCIAL_FRAUD,ACTIVE,2026-02-01,,Insp. Dorian Achebe

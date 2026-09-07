@@ -1,0 +1,25 @@
+person_id,name,age,gender,role,phone,email,organization_id,location_id,case_id
+P001,Rikard Solmyr,44,male,suspect,5550110001,rikard.solmyr@fictmail.example,O002,L001,CASE001
+P002,Dahlia Renfrew,40,female,associate,5550110002,dahlia.renfrew@fictmail.example,O001,L004,CASE001
+P003,Oskar Venn,48,male,associate,5550110003,oskar.venn@fictmail.example,O002,L012,CASE001
+P004,Ines Draventa,45,male,suspect,5550110004,ines.draventa@fictmail.example,,L009,CASE001
+P005,Tomas Halloway,58,female,associate,5550110005,tomas.halloway@fictmail.example,O002,L005,CASE001
+P006,Marek Ostrow,53,male,intermediary,5550110006,marek.ostrow@fictmail.example,O005,L008,CASE001
+P007,Elowen Kestrel,43,male,intermediary,5550110007,elowen.kestrel@fictmail.example,O005,L012,CASE001
+P008,Petra Amberlyn,47,female,associate,5550110008,petra.amberlyn@fictmail.example,,L008,CASE001
+P009,Callan Brackwood,51,male,suspect,5550110009,callan.brackwood@fictmail.example,O001,L007,CASE001
+P010,Ines Corvane,55,male,suspect,5550110010,ines.corvane@fictmail.example,O005,L002,CASE001
+P011,Soren Dellamere,56,female,investigator,5550110011,soren.dellamere@fictmail.example,,L007,CASE001
+P012,Wren Eastfield,57,female,investigator,5550110012,wren.eastfield@fictmail.example,,L007,CASE001
+P013,Dax Farrow,54,male,investigator,5550110013,dax.farrow@fictmail.example,,L010,CASE001
+P014,Liora Gravenor,38,male,victim,5550110014,liora.gravenor@fictmail.example,,L001,CASE001
+P015,Emeric Hargrove,57,male,witness,5550110015,emeric.hargrove@fictmail.example,,L012,CASE001
+P016,Ysolde Ivory,51,female,victim,5550110016,ysolde.ivory@fictmail.example,,L003,CASE001
+P017,Bram Jarrow,54,male,witness,5550110017,bram.jarrow@fictmail.example,,L002,CASE001
+P018,Cass Kellemont,53,female,investigator,5550110018,cass.kellemont@fictmail.example,,L012,CASE001
+P019,Niven Lindqvist,58,female,associate,5550110019,niven.lindqvist@fictmail.example,,L009,CASE001
+P020,Aurelia Marrow,49,female,associate,5550110020,aurelia.marrow@fictmail.example,O004,L004,CASE001
+P021,Joric Norrick,56,female,intermediary,5550110021,joric.norrick@fictmail.example,O001,L007,CASE002
+P022,Freya Ostwind,51,male,witness,5550110022,freya.ostwind@fictmail.example,,L005,CASE001
+P023,Renn Pryce,41,male,associate,5550110023,renn.pryce@fictmail.example,,L001,CASE002
+P024,Sable Quillon,33,female,suspect,5550110024,sable.quillon@fictmail.example,O002,L009,CASE002
