@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": "AUDIT",
+    "action": "EVIDENCE_ADDED",
+    "case_id": "SMOKETEST",
+    "evidence_id": "SMOKE001",
+    "timestamp": "2026-09-08T06:09:23.081890+00:00",
+    "ip": null,
+    "result": null
+  },
+  {
+    "user_id": "AUDIT",
+    "action": "EVIDENCE_VERIFIED",
+    "case_id": "SMOKETEST",
+    "evidence_id": "SMOKE001",
+    "timestamp": "2026-09-08T06:09:23.082460+00:00",
+    "ip": null,
+    "result": "VALID"
+  },
+  {
+    "user_id": "AUDIT",
+    "action": "EVIDENCE_HASH_MISMATCH",
+    "case_id": "SMOKETEST",
+    "evidence_id": "SMOKE001",
+    "timestamp": "2026-09-08T06:09:23.084512+00:00",
+    "ip": null,
+    "result": "MISMATCH"
+  }
+]
